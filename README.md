@@ -1,16 +1,15 @@
-# Rails + Hotwire Template
+# Teman Sejawat Landing Page
 
 ![CI](https://github.com/rootstrap/rails_hotwire_base/workflows/CI/badge.svg)
 [![Code Climate](https://api.codeclimate.com/v1/badges/6b4e50e445c617d9f25d/maintainability)](https://codeclimate.com/github/rootstrap/rails_hotwire_base/maintainability)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/6b4e50e445c617d9f25d/test_coverage)](https://codeclimate.com/github/rootstrap/rails_hotwire_base/test_coverage)
 
-Rails + Hotwire Base is a boilerplate project for full-stack Rails apps with a modern SPA-like experience. It follows the community best practices in terms of standards, security and maintainability, integrating a variety of testing and code quality tools. It's based on Rails 6 and Ruby 3.0.
+Teman Sejawat is a healthcare startup project which is a full-stack Rails app with a modern SPA-like experience. It follows the community best practices in terms of standards, security and maintainability, integrating a variety of testing and code quality tools. It's based on Rails 6 and Ruby 3.0.
 
-Finally, it contains a plug and play Administration console (thanks to [ActiveAdmin](https://github.com/activeadmin/activeadmin)).
+It contains a plug and play Administration console (thanks to [ActiveAdmin](https://github.com/activeadmin/activeadmin)).
 
 ## Features
 
-This template comes with:
 - Schema
   - Users table
   - Admin users table
@@ -127,10 +126,3 @@ With `rails code_analysis` you can run the code analysis tool, you can omit rule
 You can use [CODEOWNERS](https://help.github.com/en/articles/about-code-owners) file to define individuals or teams that are responsible for code in the repository.
 
 Code owners are automatically requested for review when someone opens a pull request that modifies code that they own.
-
-## Credits
-
-Rails + Hotwire Base is maintained by [Rootstrap](http://www.rootstrap.com) with the help of our
-[contributors](https://github.com/rootstrap/rails_hotwire_base/contributors).
-
-[<img src="https://s3-us-west-1.amazonaws.com/rootstrap.com/img/rs.png" width="100"/>](http://www.rootstrap.com)
